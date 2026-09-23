@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Contatos
 
 <p align="left">
   <a href="https://github.com/mateus999-637">
@@ -22,7 +22,7 @@
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 
