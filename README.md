@@ -14,9 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-MATEUS999-637?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mateus-rangel-11a6b13a0">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedin&logoColor=white" />
-  </a>
+ 
  
 </p>
 
